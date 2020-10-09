@@ -13,6 +13,7 @@ public class Program {
         for (int i = 0; i < arr.length; i++) {
             arr[i] += (Math.random() * 10) - 5;
             System.out.printf("%d ",arr[i]);
+
         }
     }
 }
