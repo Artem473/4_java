@@ -14,15 +14,6 @@ public class Program {
             arr[i] += (Math.random() * 10) - 5;
             System.out.printf("%d ",arr[i]);
 
-
-
-
-
-
-
-
-
-
         }
     }
 }
